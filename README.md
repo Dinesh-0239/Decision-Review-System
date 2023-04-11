@@ -1,2 +1,2 @@
-# Decision-Review-System
-This is the python project on Decision Review Created By me(Dinesh Singh) 
+# Decision-Review-System-Using-Python
+# Decision-Review-System-Using-Python
