@@ -13,3 +13,7 @@ Visiting Clip
 Decision Screen
 ![image](https://user-images.githubusercontent.com/114934305/231161905-6f311b5b-7246-4389-b874-bcf3c4bb12ef.png)
 
+
+This project consists of the main project along with project report and synopsis....
+
+Thank You
